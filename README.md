@@ -11,7 +11,7 @@ Michael Sikora - msikora3@illinois.edu,
 Cynthia Damodaran - cd13@illinois.edu,
 Nitish Natarajan - nitishn2@illinois.edu, 
 Alpri Else - aelse2@illinois.edu,
-Muhammad Imran - miimran2@illinois.edu
+Shreerith Seshadri - ss60@illinois.edu
 
 Project Description:
 Create a neural network based algorithm to analyze images of eyes and determine if diabetic retinopathy is present.
