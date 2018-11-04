@@ -3,7 +3,6 @@ This is for an ADSA project for FA18
 
 Group Members:
 Daman Mulye - dmulye2@illinois.edu, 
-Akhil Jakatdar - akhilrj2@illinois.edu,
 Nathan Kumar - nathank3@illinois.edu,
 Nitish Poddar - npoddar2@illinois.edu, 
 Soham Saha - sohams2@illinois.edu,
